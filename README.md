@@ -1,4 +1,8 @@
+projeto desenvolvido na NLW3 da RocketSeat
+
 # Happy
+
+
 
 O Happy ajuda os orfanatos a terem maior visibilidade e a ter uma presença digital para sua instituição.
 Além disso, o Happy também ajuda as pessoas que querem fazer visitas a orfanatos a encontrarem informações.
